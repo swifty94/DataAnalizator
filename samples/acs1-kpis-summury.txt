@@ -1,0 +1,37 @@
+KPIs Summury
+
+MAX value for oracle_1521 - 301
+MIN value for oracle_1521 - 3
+AVG value for oracle_1521 - 12.6
+
+MAX value for acs_port_8080 - 60
+MIN value for acs_port_8080 - 3
+AVG value for acs_port_8080 - 14.46
+
+MAX value for acs_port_8181 - 13
+MIN value for acs_port_8181 - 3
+AVG value for acs_port_8181 - 5.37
+
+MAX value for acs_port_8443 - 1
+MIN value for acs_port_8443 - 0
+AVG value for acs_port_8443 - 0.01
+
+MAX value for acs_port_80 - 735
+MIN value for acs_port_80 - 11
+AVG value for acs_port_80 - 90.63
+
+MAX value for acs_port_443 - 56
+MIN value for acs_port_443 - 1
+AVG value for acs_port_443 - 1.66
+
+MAX value for acs_port_8182 - 55
+MIN value for acs_port_8182 - 1
+AVG value for acs_port_8182 - 12.28
+
+MAX value for cpu_load - 2.72
+MIN value for cpu_load - 0.0
+AVG value for cpu_load - 0.62
+
+MAX value for used_ram - 15834
+MIN value for used_ram - 12684
+AVG value for used_ram - 14995.05

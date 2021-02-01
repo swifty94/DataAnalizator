@@ -1,0 +1,33 @@
+KPIs Summury
+
+MAX value for used_ram - 6448.26
+MIN value for used_ram - 3346.66
+AVG value for used_ram - 5284.38
+
+MAX value for cpu_loadavg - 0.0
+MIN value for cpu_loadavg - 0.0
+AVG value for cpu_loadavg - 0.0
+
+MAX value for acs_8080 - 165
+MIN value for acs_8080 - 2
+AVG value for acs_8080 - 2.07
+
+MAX value for acs_8181 - 13
+MIN value for acs_8181 - 1
+AVG value for acs_8181 - 2.64
+
+MAX value for acs_8443 - 2
+MIN value for acs_8443 - 0
+AVG value for acs_8443 - 0.0
+
+MAX value for oracle - 118
+MIN value for oracle - 4
+AVG value for oracle - 12.6
+
+MAX value for iis_ram - 4.79
+MIN value for iis_ram - 0.07
+AVG value for iis_ram - 1.67
+
+MAX value for iis_cpu - 440.1
+MIN value for iis_cpu - 0.0
+AVG value for iis_cpu - 1.33

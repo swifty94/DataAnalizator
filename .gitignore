@@ -1,0 +1,6 @@
+graphs/*.png
+reports/*.txt
+venv/
+__pycache__
+*.csv
+*.log
