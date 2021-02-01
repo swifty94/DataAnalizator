@@ -140,9 +140,9 @@ class Report(object):
 
 if __name__ == "__main__":
     start = time()
-    #acs = Report(ACS_CSV)
-    #acs.acs_stats_single()
-    #acs.acs_stats_multi()
+    acs = Report(ACS_CSV)
+    acs.acs_stats_single()
+    acs.acs_stats_multi()
     mng = Report(MNG_CSV)
     mng.mng_stats()
     end = time()
